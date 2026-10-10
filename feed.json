@@ -11,6 +11,34 @@
     },
     "items": [
         {
+            "id": "https://edoart-e.github.io/portfolio/blog/a-fantastic-cretaure/",
+            "url": "https://edoart-e.github.io/portfolio/blog/a-fantastic-cretaure/",
+            "title": "A fantastic cretaure ",
+            "summary": "A fantastical creature with a beak, two webbed feet, dorsal winged fins, and rear fins. I'd say it has everything!",
+            "content_html": "<p>A fantastical creature with a beak, two webbed feet, dorsal winged fins, and rear fins. I'd say it has everything!<br><br><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://edoart-e.github.io/portfolio/media/posts/11/2610-Fantastic_creature.jpeg\" alt=\"\" width=\"1500\" height=\"957\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://edoart-e.github.io/portfolio/media/posts/11/responsive/2610-Fantastic_creature-xs.jpeg 640w ,https://edoart-e.github.io/portfolio/media/posts/11/responsive/2610-Fantastic_creature-sm.jpeg 768w ,https://edoart-e.github.io/portfolio/media/posts/11/responsive/2610-Fantastic_creature-md.jpeg 1024w ,https://edoart-e.github.io/portfolio/media/posts/11/responsive/2610-Fantastic_creature-lg.jpeg 1366w ,https://edoart-e.github.io/portfolio/media/posts/11/responsive/2610-Fantastic_creature-xl.jpeg 1600w ,https://edoart-e.github.io/portfolio/media/posts/11/responsive/2610-Fantastic_creature-2xl.jpeg 1920w\"> </figure>",
+            "author": {
+                "name": "Edoarte"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-10T21:21:37+02:00",
+            "date_modified": "2026-10-10T21:21:37+02:00"
+        },
+        {
+            "id": "https://edoart-e.github.io/portfolio/blog/rabbit-warrior/",
+            "url": "https://edoart-e.github.io/portfolio/blog/rabbit-warrior/",
+            "title": "A rabbit warrior",
+            "summary": "A rabbit warrior that doesn't come in peace!",
+            "content_html": "<p>A rabbit warrior that doesn't come in peace!<br><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://edoart-e.github.io/portfolio/media/posts/10/2610-Rabbit_warrior.jpeg\" alt=\"\" width=\"1220\" height=\"1500\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://edoart-e.github.io/portfolio/media/posts/10/responsive/2610-Rabbit_warrior-xs.jpeg 640w ,https://edoart-e.github.io/portfolio/media/posts/10/responsive/2610-Rabbit_warrior-sm.jpeg 768w ,https://edoart-e.github.io/portfolio/media/posts/10/responsive/2610-Rabbit_warrior-md.jpeg 1024w ,https://edoart-e.github.io/portfolio/media/posts/10/responsive/2610-Rabbit_warrior-lg.jpeg 1366w ,https://edoart-e.github.io/portfolio/media/posts/10/responsive/2610-Rabbit_warrior-xl.jpeg 1600w ,https://edoart-e.github.io/portfolio/media/posts/10/responsive/2610-Rabbit_warrior-2xl.jpeg 1920w\"></figure>",
+            "author": {
+                "name": "Edoarte"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-10T21:17:34+02:00",
+            "date_modified": "2026-10-10T21:23:41+02:00"
+        },
+        {
             "id": "https://edoart-e.github.io/portfolio/blog/test/",
             "url": "https://edoart-e.github.io/portfolio/blog/test/",
             "title": "Hello World",

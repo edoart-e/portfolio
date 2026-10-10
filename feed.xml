@@ -3,12 +3,52 @@
     <title>Edo&#x27;s gallery</title>
     <link href="https://edoart-e.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://edoart-e.github.io/portfolio" />
-    <updated>2026-10-10T12:24:36+02:00</updated>
+    <updated>2026-10-10T21:23:41+02:00</updated>
     <author>
         <name>Edoarte</name>
     </author>
     <id>https://edoart-e.github.io/portfolio</id>
 
+    <entry>
+        <title>A fantastic cretaure </title>
+        <author>
+            <name>Edoarte</name>
+        </author>
+        <link href="https://edoart-e.github.io/portfolio/blog/a-fantastic-cretaure/"/>
+        <id>https://edoart-e.github.io/portfolio/blog/a-fantastic-cretaure/</id>
+
+        <updated>2026-10-10T21:21:37+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    A fantastical creature with a beak, two webbed feet, dorsal winged fins, and rear fins. I'd say it has everything!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A fantastical creature with a beak, two webbed feet, dorsal winged fins, and rear fins. I'd say it has everything!<br><br><figure class="post__image"><img loading="lazy"  src="https://edoart-e.github.io/portfolio/media/posts/11/2610-Fantastic_creature.jpeg" alt="" width="1500" height="957" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://edoart-e.github.io/portfolio/media/posts/11/responsive/2610-Fantastic_creature-xs.jpeg 640w ,https://edoart-e.github.io/portfolio/media/posts/11/responsive/2610-Fantastic_creature-sm.jpeg 768w ,https://edoart-e.github.io/portfolio/media/posts/11/responsive/2610-Fantastic_creature-md.jpeg 1024w ,https://edoart-e.github.io/portfolio/media/posts/11/responsive/2610-Fantastic_creature-lg.jpeg 1366w ,https://edoart-e.github.io/portfolio/media/posts/11/responsive/2610-Fantastic_creature-xl.jpeg 1600w ,https://edoart-e.github.io/portfolio/media/posts/11/responsive/2610-Fantastic_creature-2xl.jpeg 1920w"> </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>A rabbit warrior</title>
+        <author>
+            <name>Edoarte</name>
+        </author>
+        <link href="https://edoart-e.github.io/portfolio/blog/rabbit-warrior/"/>
+        <id>https://edoart-e.github.io/portfolio/blog/rabbit-warrior/</id>
+
+        <updated>2026-10-10T21:17:34+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    A rabbit warrior that doesn't come in peace!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A rabbit warrior that doesn't come in peace!<br><figure class="post__image"><img loading="lazy"  src="https://edoart-e.github.io/portfolio/media/posts/10/2610-Rabbit_warrior.jpeg" alt="" width="1220" height="1500" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://edoart-e.github.io/portfolio/media/posts/10/responsive/2610-Rabbit_warrior-xs.jpeg 640w ,https://edoart-e.github.io/portfolio/media/posts/10/responsive/2610-Rabbit_warrior-sm.jpeg 768w ,https://edoart-e.github.io/portfolio/media/posts/10/responsive/2610-Rabbit_warrior-md.jpeg 1024w ,https://edoart-e.github.io/portfolio/media/posts/10/responsive/2610-Rabbit_warrior-lg.jpeg 1366w ,https://edoart-e.github.io/portfolio/media/posts/10/responsive/2610-Rabbit_warrior-xl.jpeg 1600w ,https://edoart-e.github.io/portfolio/media/posts/10/responsive/2610-Rabbit_warrior-2xl.jpeg 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hello World</title>
         <author>
