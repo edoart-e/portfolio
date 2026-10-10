@@ -1,0 +1,409 @@
+{
+    "name": "Simple Lightbox Gallery",
+    "description": "This plugin provides a fully-featured engine for displaying Publii galleries, utilizing the VenoBox 2 library to enhance the rendering of the native gallery markup.",
+    "license": "GPL-3.0",
+    "author": "TidyCustoms",
+    "version": "1.1.0",
+    "scope": "site",
+    "minimumPubliiVersion": "0.43.0",
+    "assets": {
+        "front": [
+            "venobox.min.css",
+            "venobox.min.js",
+            "simple-lightbox-gallery.css",
+            "simple-lightbox-gallery.js"
+        ]
+    },
+    "config": [
+        {
+            "name": "fitView",
+            "label": "Fit images to viewport",
+            "type": "checkbox",
+            "value": true,
+            "note": "Resize images to fit within the viewport height.",
+            "group": "General"
+        },
+        {
+            "name": "infinigall",
+            "label": "Loop through slides",
+            "type": "checkbox",
+            "value": true,
+            "note": "Allow navigation from the last slide to the first and vice versa.",
+            "group": "General"
+        },
+        {
+            "name": "uniqueGalleryGroups",
+            "label": "Keep galleries separate",
+            "type": "checkbox",
+            "value": true,
+            "note": "When enabled, each image gallery opens as a separate slideshow. When disabled, all galleries on the page are combined.",
+            "group": "General"
+        }
+        ,
+        {
+            "name": "overlayClose",
+            "label": "Overlay click to close",
+            "type": "checkbox",
+            "value": true,
+            "note": "Allow closing the lightbox by clicking on the overlay.",
+            "group": "Interface & Controls"
+        },
+        {
+            "name": "spinner",
+            "label": "Image preloader style",
+            "type": "select",
+            "options": [
+                {
+                    "label": "Plane",
+                    "value": "plane"
+                },
+                {
+                    "label": "Chase",
+                    "value": "chase"
+                },
+                {
+                    "label": "Bounce",
+                    "value": "bounce"
+                },
+                {
+                    "label": "Wave",
+                    "value": "wave"
+                },
+                {
+                    "label": "Pulse",
+                    "value": "pulse"
+                },
+                {
+                    "label": "Flow",
+                    "value": "flow"
+                },
+                {
+                    "label": "Swing",
+                    "value": "swing"
+                },
+                {
+                    "label": "Circle",
+                    "value": "circle"
+                },
+                {
+                    "label": "Circle Fade",
+                    "value": "circle-fade"
+                },
+                {
+                    "label": "Grid",
+                    "value": "grid"
+                },
+                {
+                    "label": "Fold",
+                    "value": "fold"
+                },
+                {
+                    "label": "Wander",
+                    "value": "wander"
+                }
+            ],
+            "value": "pulse",
+            "group": "Interface & Controls"
+        },
+        {
+            "name": "separator",
+            "type": "separator",
+            "label": "",
+            "group": "Interface & Controls",
+            "size": "thin small"
+        },
+        {
+            "name": "navigation",
+            "label": "Show previous/next navigation",
+            "type": "checkbox",
+            "value": true,
+            "group": "Interface & Controls"
+        },
+        {
+            "name": "numeration",
+            "label": "Show counter",
+            "type": "checkbox",
+            "value": true,
+            "group": "Interface & Controls"
+        },
+        {
+            "name": "share",
+            "label": "Show native share button",
+            "type": "checkbox",
+            "value": true,
+            "note": "Shown only when the browser supports the Web Share API. It may be unavailable in Publii preview mode or in some desktop browsers and generally requires a secure HTTPS website.",
+            "group": "Interface & Controls"
+        },
+        {
+            "name": "download",
+            "label": "Show download button",
+            "type": "checkbox",
+            "value": true,
+            "group": "Interface & Controls"
+        },
+        {
+            "name": "copyLink",
+            "label": "Show copy link button",
+            "type": "checkbox",
+            "value": true,
+            "group": "Interface & Controls"
+        },
+        {
+            "name": "shareStyle",
+            "label": "Sharing button style",
+            "type": "select",
+            "options": [
+                {
+                    "label": "Block",
+                    "value": "block"
+                },
+                {
+                    "label": "Pill",
+                    "value": "pill"
+                },
+                {
+                    "label": "Transparent",
+                    "value": "transparent"
+                },
+                {
+                    "label": "Bar",
+                    "value": "bar"
+                }
+            ],
+            "value": "pill",
+            "note": "Choose the appearance of sharing buttons.",
+            "group": "Interface & Controls"
+        },
+        {
+            "name": "titlePosition",
+            "label": "Caption position",
+            "type": "radio",
+            "options": [
+                {
+                    "label": "Top",
+                    "value": "top"
+                },
+                {
+                    "label": "Bottom",
+                    "value": "bottom"
+                }
+            ],
+            "value": "top",
+            "note": "Choose the position for displaying titles.",
+            "group": "Interface & Controls"
+        },
+        {
+            "name": "showCaption",
+            "label": "Show captions",
+            "type": "checkbox",
+            "value": true,
+            "note": "Display the Publii gallery caption in the lightbox.",
+            "group": "Interface & Controls"
+        },
+        {
+            "name": "titleStyle",
+            "label": "Caption style",
+            "type": "select",
+            "options": [
+                {
+                    "label": "Block",
+                    "value": "block"
+                },
+                {
+                    "label": "Pill",
+                    "value": "pill"
+                },
+                {
+                    "label": "Transparent",
+                    "value": "transparent"
+                },
+                {
+                    "label": "Bar",
+                    "value": "bar"
+                }
+            ],
+            "value": "transparent",
+            "note": "Define the style for titles.",
+            "group": "Interface & Controls"
+        },
+
+        {
+            "name": "maxWidth",
+            "label": "Maximum image width",
+            "type": "text",
+            "value": "100%",
+            "note": "Set the maximum width for the image (e.g., '800px').",
+            "group": "Appearance"
+        },
+        {
+            "name": "overlayColor",
+            "label": "Overlay color",
+            "type": "colorpicker",
+            "value": "rgba(0,0,0,0.8)",
+            "note": "Set the backdrop color for the overlay.",
+            "group": "Appearance"
+        },
+        {
+            "name": "bgcolor",
+            "label": "Image placeholder color",
+            "type": "colorpicker",
+            "value": "rgba(38, 40, 44, 1)",
+            "note": "Set the background color for image placeholders displayed while images are loading.",
+            "group": "Appearance"
+        },
+        {
+            "name": "toolsBackground",
+            "label": "UI background color",
+            "type": "colorpicker",
+            "value": "#1C1C1C",
+            "note": "Set the background color for UI elements, such as icons, buttons, and toolbars.",
+            "group": "Appearance"
+        },
+        {
+            "name": "toolsColor",
+            "label": "UI elements color",
+            "type": "colorpicker",
+            "value": "#d2d2d2",
+            "note": "Set the color for UI elements, such as icons and caption text",
+            "group": "Appearance"
+        },
+
+        {
+            "name": "navKeyboard",
+            "label": "Enable keyboard navigation",
+            "type": "checkbox",
+            "value": true,
+            "note": "Allow navigation using the left and right arrow keys. Escape and Tab handling remain available for accessibility.",
+            "group": "Accessibility"
+        },
+        {
+            "name": "navTouch",
+            "label": "Enable swipe navigation",
+            "type": "checkbox",
+            "value": true,
+            "note": "Allow swipe/drag gestures for navigation.",
+            "group": "Accessibility"
+        },
+        {
+            "name": "initialScale",
+            "label": "Initial scale",
+            "type": "range",
+            "min": 0.5,
+            "max": 1,
+            "step": 0.1,
+            "value": 0.9,
+            "note": "Set the initial scale of the image when the lightbox opens. Lower values create a zoom-in effect.",
+            "group": "Animation"
+        },
+        {
+            "name": "transitionSpeed",
+            "label": "Initial transition speed",
+            "type": "number",
+            "min": 0,
+            "max": 5000,
+            "step": 50,
+            "value": 200,
+            "note": "Set the speed of the initial transition animation when the lightbox opens, in milliseconds.",
+            "group": "Animation"
+        },
+        {
+            "name": "navSpeed",
+            "label": "Slide transition speed",
+            "type": "number",
+            "min": 0,
+            "max": 5000,
+            "step": 50,
+            "value": 300,
+            "note": "Set the duration of the transition animation between slides in the lightbox, in milliseconds.",
+            "group": "Animation"
+        },
+        {
+            "name": "dialogLabel",
+            "label": "Gallery dialog label",
+            "type": "text",
+            "value": "Image gallery",
+            "note": "Accessible name announced for the lightbox dialog.",
+            "group": "Localization"
+        },
+        {
+            "name": "closeLabel",
+            "label": "Close button label",
+            "type": "text",
+            "value": "Close",
+            "group": "Localization"
+        },
+        {
+            "name": "previousLabel",
+            "label": "Previous button label",
+            "type": "text",
+            "value": "Previous image",
+            "group": "Localization"
+        },
+        {
+            "name": "nextLabel",
+            "label": "Next button label",
+            "type": "text",
+            "value": "Next image",
+            "group": "Localization"
+        },
+        {
+            "name": "shareLabel",
+            "label": "Share button label",
+            "type": "text",
+            "value": "Share image",
+            "group": "Localization"
+        },
+        {
+            "name": "downloadLabel",
+            "label": "Download button label",
+            "type": "text",
+            "value": "Download image",
+            "group": "Localization"
+        },
+        {
+            "name": "copyLinkLabel",
+            "label": "Copy link button label",
+            "type": "text",
+            "value": "Copy image link",
+            "group": "Localization"
+        },
+        {
+            "name": "copiedLabel",
+            "label": "Link copied message",
+            "type": "text",
+            "value": "Link copied",
+            "group": "Localization"
+        },
+        {
+            "name": "loadingLabel",
+            "label": "Loading image message",
+            "type": "text",
+            "value": "Loading image",
+            "group": "Localization"
+        },
+        {
+            "name": "loadErrorLabel",
+            "label": "Image loading error",
+            "type": "text",
+            "value": "The image cannot be loaded",
+            "group": "Localization"
+        },
+        {
+            "name": "imageAltFallback",
+            "label": "Fallback image description",
+            "type": "text",
+            "value": "Gallery image",
+            "note": "Used only when the gallery thumbnail has no alternative text.",
+            "group": "Localization"
+        },
+        {
+            "name": "counterSeparator",
+            "label": "Counter separator",
+            "type": "text",
+            "value": " / ",
+            "note": "Text placed between the current image number and the total number of images.",
+            "group": "Localization"
+        }
+        
+    ]
+}

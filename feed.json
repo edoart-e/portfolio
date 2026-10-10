@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Edo&#x27;s gallery",
+    "description": "",
+    "home_page_url": "https://edoart-e.github.io/portfolio",
+    "feed_url": "https://edoart-e.github.io/portfolio/feed.json",
+    "user_comment": "",
+    "icon": "https://edoart-e.github.io/portfolio/media/website/EdoB-white.png",
+    "author": {
+        "name": "Edoarte"
+    },
+    "items": [
+        {
+            "id": "https://edoart-e.github.io/portfolio/blog/test/",
+            "url": "https://edoart-e.github.io/portfolio/blog/test/",
+            "title": "Hello World",
+            "summary": "Today we have launched the new web site",
+            "content_html": "<p>Today we have launched the new web site</p>",
+            "author": {
+                "name": "Edoarte"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-09T16:21:26+02:00",
+            "date_modified": "2026-10-10T12:24:36+02:00"
+        }
+    ]
+}
