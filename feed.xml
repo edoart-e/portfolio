@@ -3,12 +3,34 @@
     <title>Edo&#x27;s gallery</title>
     <link href="https://edoarte.it/feed.xml" rel="self" />
     <link href="https://edoarte.it" />
-    <updated>2026-10-23T14:44:53+02:00</updated>
+    <updated>2026-10-23T15:08:14+02:00</updated>
     <author>
         <name>Edoarte</name>
     </author>
     <id>https://edoarte.it</id>
 
+    <entry>
+        <title>A scary face</title>
+        <author>
+            <name>Edoarte</name>
+        </author>
+        <link href="https://edoarte.it/blog/a-scary-face/"/>
+        <id>https://edoarte.it/blog/a-scary-face/</id>
+
+        <updated>2026-10-23T15:08:14+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    It creeps me out!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>It creeps me out!</p>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://edoarte.it/media/posts/13/monster_head_cropped.jpg" alt="A scary face" width="1500" height="1476" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://edoarte.it/media/posts/13/responsive/monster_head_cropped-xs.jpg 640w ,https://edoarte.it/media/posts/13/responsive/monster_head_cropped-sm.jpg 768w ,https://edoarte.it/media/posts/13/responsive/monster_head_cropped-md.jpg 1024w ,https://edoarte.it/media/posts/13/responsive/monster_head_cropped-lg.jpg 1366w ,https://edoarte.it/media/posts/13/responsive/monster_head_cropped-xl.jpg 1600w ,https://edoarte.it/media/posts/13/responsive/monster_head_cropped-2xl.jpg 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Orc with goblin</title>
         <author>

@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://edoarte.it/blog/a-scary-face/",
+            "url": "https://edoarte.it/blog/a-scary-face/",
+            "title": "A scary face",
+            "summary": "It creeps me out!",
+            "content_html": "<p>It creeps me out!</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://edoarte.it/media/posts/13/monster_head_cropped.jpg\" alt=\"A scary face\" width=\"1500\" height=\"1476\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://edoarte.it/media/posts/13/responsive/monster_head_cropped-xs.jpg 640w ,https://edoarte.it/media/posts/13/responsive/monster_head_cropped-sm.jpg 768w ,https://edoarte.it/media/posts/13/responsive/monster_head_cropped-md.jpg 1024w ,https://edoarte.it/media/posts/13/responsive/monster_head_cropped-lg.jpg 1366w ,https://edoarte.it/media/posts/13/responsive/monster_head_cropped-xl.jpg 1600w ,https://edoarte.it/media/posts/13/responsive/monster_head_cropped-2xl.jpg 1920w\"></figure>",
+            "author": {
+                "name": "Edoarte"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-23T15:08:14+02:00",
+            "date_modified": "2026-10-23T15:08:14+02:00"
+        },
+        {
             "id": "https://edoarte.it/blog/orc-with-goblin/",
             "url": "https://edoarte.it/blog/orc-with-goblin/",
             "title": "Orc with goblin",
