@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Edo&#x27;s gallery",
+    "title": "Edo&#x27;s gallery - brutta",
     "description": "",
     "home_page_url": "https://edoarte.it",
     "feed_url": "https://edoarte.it/feed.json",
@@ -15,140 +15,160 @@
             "url": "https://edoarte.it/blog/the-long-tongued-monster/",
             "title": "The Long-Tongued Monster",
             "summary": "It has a long tongue, horns, a smoking snout, and even three tentacles on its back… defintely a monster with lots of accessories!",
-            "content_html": "<p>It has a long tongue, horns, a smoking snout, and even three tentacles on its back… defintely a monster with lots of accessories!</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://edoarte.it/media/posts/20/dinolike-long_tongued_monster_cropped.jpg\" alt=\"\" width=\"1500\" height=\"1207\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://edoarte.it/media/posts/20/responsive/dinolike-long_tongued_monster_cropped-xs.jpg 640w ,https://edoarte.it/media/posts/20/responsive/dinolike-long_tongued_monster_cropped-sm.jpg 768w ,https://edoarte.it/media/posts/20/responsive/dinolike-long_tongued_monster_cropped-md.jpg 1024w ,https://edoarte.it/media/posts/20/responsive/dinolike-long_tongued_monster_cropped-lg.jpg 1366w ,https://edoarte.it/media/posts/20/responsive/dinolike-long_tongued_monster_cropped-xl.jpg 1600w ,https://edoarte.it/media/posts/20/responsive/dinolike-long_tongued_monster_cropped-2xl.jpg 1920w\"></figure>",
+            "content_html": "<p>It has a long tongue, horns, a smoking snout, and even three tentacles on its back… defintely a monster with lots of accessories!</p>\n<p> </p>\n<p> </p>",
+            "image": "https://edoarte.it/media/posts/20/dinolike-long_tongued_monster_cropped-2.jpg",
             "author": {
                 "name": "Edoarte"
             },
             "tags": [
+                   "Monsters"
             ],
-            "date_published": "2026-10-23T22:42:23+02:00",
-            "date_modified": "2026-10-23T22:43:58+02:00"
+            "date_published": "2026-10-24T22:42:00+02:00",
+            "date_modified": "2026-10-27T09:21:15+01:00"
         },
         {
             "id": "https://edoarte.it/blog/a-cute-puffy-dino-monster/",
             "url": "https://edoarte.it/blog/a-cute-puffy-dino-monster/",
             "title": "A cute, puffy dino monster!",
             "summary": "Don't be fooled by its cute appearance!",
-            "content_html": "<p>Don't be fooled by its cute appearance!</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://edoarte.it/media/posts/19/cutedino_cropped.jpg\" alt=\"\" width=\"1500\" height=\"1010\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://edoarte.it/media/posts/19/responsive/cutedino_cropped-xs.jpg 640w ,https://edoarte.it/media/posts/19/responsive/cutedino_cropped-sm.jpg 768w ,https://edoarte.it/media/posts/19/responsive/cutedino_cropped-md.jpg 1024w ,https://edoarte.it/media/posts/19/responsive/cutedino_cropped-lg.jpg 1366w ,https://edoarte.it/media/posts/19/responsive/cutedino_cropped-xl.jpg 1600w ,https://edoarte.it/media/posts/19/responsive/cutedino_cropped-2xl.jpg 1920w\"></figure>\n<p> </p>",
+            "content_html": "<p>Don't be fooled by its cute appearance!</p>\n<p> </p>\n<p> </p>",
+            "image": "https://edoarte.it/media/posts/19/cutedino_cropped-2.jpg",
             "author": {
                 "name": "Edoarte"
             },
             "tags": [
+                   "Monsters"
             ],
-            "date_published": "2026-10-23T22:38:03+02:00",
-            "date_modified": "2026-10-23T22:38:03+02:00"
+            "date_published": "2026-10-24T22:38:00+02:00",
+            "date_modified": "2026-10-27T09:21:24+01:00"
         },
         {
             "id": "https://edoarte.it/blog/curly-nosed-monster/",
             "url": "https://edoarte.it/blog/curly-nosed-monster/",
             "title": "Curly-nosed monster",
             "summary": "Well... the curly nose makes him endearing",
-            "content_html": "<p>Well... the curly nose makes him endearing</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://edoarte.it/media/posts/18/dinolike-monster_cropped.jpg\" alt=\"\" width=\"1500\" height=\"1315\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://edoarte.it/media/posts/18/responsive/dinolike-monster_cropped-xs.jpg 640w ,https://edoarte.it/media/posts/18/responsive/dinolike-monster_cropped-sm.jpg 768w ,https://edoarte.it/media/posts/18/responsive/dinolike-monster_cropped-md.jpg 1024w ,https://edoarte.it/media/posts/18/responsive/dinolike-monster_cropped-lg.jpg 1366w ,https://edoarte.it/media/posts/18/responsive/dinolike-monster_cropped-xl.jpg 1600w ,https://edoarte.it/media/posts/18/responsive/dinolike-monster_cropped-2xl.jpg 1920w\"></figure>",
+            "content_html": "<p>Well... the curly nose makes him endearing</p>\n<p> </p>\n<p> </p>",
+            "image": "https://edoarte.it/media/posts/18/dinolike-monster_cropped-2.jpg",
             "author": {
                 "name": "Edoarte"
             },
             "tags": [
+                   "Monsters"
             ],
-            "date_published": "2026-10-23T22:34:41+02:00",
-            "date_modified": "2026-10-23T22:34:41+02:00"
+            "date_published": "2026-10-24T22:34:00+02:00",
+            "date_modified": "2026-10-27T09:21:07+01:00"
         },
         {
             "id": "https://edoarte.it/blog/a-mustachioed-sailor/",
             "url": "https://edoarte.it/blog/a-mustachioed-sailor/",
             "title": "A mustachioed sailor",
             "summary": "A mustachioed sailor, perhaps from a cyber ghost ship.",
-            "content_html": "<p>A mustachioed sailor, perhaps from a cyber ghost ship.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://edoarte.it/media/posts/17/Mustachioed_cyber_sailor_cropped.jpg\" alt=\"\" width=\"1131\" height=\"1500\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://edoarte.it/media/posts/17/responsive/Mustachioed_cyber_sailor_cropped-xs.jpg 640w ,https://edoarte.it/media/posts/17/responsive/Mustachioed_cyber_sailor_cropped-sm.jpg 768w ,https://edoarte.it/media/posts/17/responsive/Mustachioed_cyber_sailor_cropped-md.jpg 1024w ,https://edoarte.it/media/posts/17/responsive/Mustachioed_cyber_sailor_cropped-lg.jpg 1366w ,https://edoarte.it/media/posts/17/responsive/Mustachioed_cyber_sailor_cropped-xl.jpg 1600w ,https://edoarte.it/media/posts/17/responsive/Mustachioed_cyber_sailor_cropped-2xl.jpg 1920w\"></figure>",
+            "content_html": "<p>A mustachioed sailor, perhaps from a cyber ghost ship.</p>\n<p> </p>",
+            "image": "https://edoarte.it/media/posts/17/Mustachioed_cyber_sailor_cropped-2.jpg",
             "author": {
                 "name": "Edoarte"
             },
             "tags": [
+                   "Monsters"
             ],
-            "date_published": "2026-10-23T22:31:36+02:00",
-            "date_modified": "2026-10-23T22:31:36+02:00"
-        },
-        {
-            "id": "https://edoarte.it/blog/little-creaures/",
-            "url": "https://edoarte.it/blog/little-creaures/",
-            "title": "Little creaures",
-            "summary": "They have no name, but these small creatures would deserve one.",
-            "content_html": "<p> </p>\n<p>They have no name, but these small creatures would deserve one.</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://edoarte.it/media/posts/16/small_creatures_cropped-2.jpg\" alt=\"\" width=\"1500\" height=\"1183\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://edoarte.it/media/posts/16/responsive/small_creatures_cropped-2-xs.jpg 640w ,https://edoarte.it/media/posts/16/responsive/small_creatures_cropped-2-sm.jpg 768w ,https://edoarte.it/media/posts/16/responsive/small_creatures_cropped-2-md.jpg 1024w ,https://edoarte.it/media/posts/16/responsive/small_creatures_cropped-2-lg.jpg 1366w ,https://edoarte.it/media/posts/16/responsive/small_creatures_cropped-2-xl.jpg 1600w ,https://edoarte.it/media/posts/16/responsive/small_creatures_cropped-2-2xl.jpg 1920w\"></figure>",
-            "author": {
-                "name": "Edoarte"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-10-23T22:29:20+02:00",
-            "date_modified": "2026-10-23T22:29:20+02:00"
+            "date_published": "2026-10-24T22:31:00+02:00",
+            "date_modified": "2026-10-27T09:20:55+01:00"
         },
         {
             "id": "https://edoarte.it/blog/he-is-serious/",
             "url": "https://edoarte.it/blog/he-is-serious/",
             "title": "He is serious",
             "summary": "I wouldn't look for trouble with him",
-            "content_html": "<p>I wouldn't look for trouble with him<br><br><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://edoarte.it/media/posts/15/Smoking_serious_man_cropped-2.jpg\" alt=\"\" width=\"1270\" height=\"1500\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://edoarte.it/media/posts/15/responsive/Smoking_serious_man_cropped-2-xs.jpg 640w ,https://edoarte.it/media/posts/15/responsive/Smoking_serious_man_cropped-2-sm.jpg 768w ,https://edoarte.it/media/posts/15/responsive/Smoking_serious_man_cropped-2-md.jpg 1024w ,https://edoarte.it/media/posts/15/responsive/Smoking_serious_man_cropped-2-lg.jpg 1366w ,https://edoarte.it/media/posts/15/responsive/Smoking_serious_man_cropped-2-xl.jpg 1600w ,https://edoarte.it/media/posts/15/responsive/Smoking_serious_man_cropped-2-2xl.jpg 1920w\"></figure>\n<p> </p>",
+            "content_html": "<p>I wouldn't look for trouble with him<br><br><br></p>\n<p> </p>",
+            "image": "https://edoarte.it/media/posts/15/Smoking_serious_man_cropped.jpg",
             "author": {
                 "name": "Edoarte"
             },
             "tags": [
+                   "Portraits"
             ],
-            "date_published": "2026-10-23T22:26:43+02:00",
-            "date_modified": "2026-10-23T22:26:43+02:00"
-        },
-        {
-            "id": "https://edoarte.it/blog/when-the-blood-moon-rises/",
-            "url": "https://edoarte.it/blog/when-the-blood-moon-rises/",
-            "title": " When the Blood Moon rises",
-            "summary": "Edoarte used to play Zelda, and this little story is inspired by the game, where the monsters respawn when the Blood Moon rises",
-            "content_html": "<p>Edoarte used to play Zelda, and this little story is inspired by the game, where the monsters respawn when the Blood Moon rises<br><br><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://edoarte.it/media/posts/14/Zelda_adventure_cropped-2.jpg\" alt=\"\" width=\"1026\" height=\"1500\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://edoarte.it/media/posts/14/responsive/Zelda_adventure_cropped-2-xs.jpg 640w ,https://edoarte.it/media/posts/14/responsive/Zelda_adventure_cropped-2-sm.jpg 768w ,https://edoarte.it/media/posts/14/responsive/Zelda_adventure_cropped-2-md.jpg 1024w ,https://edoarte.it/media/posts/14/responsive/Zelda_adventure_cropped-2-lg.jpg 1366w ,https://edoarte.it/media/posts/14/responsive/Zelda_adventure_cropped-2-xl.jpg 1600w ,https://edoarte.it/media/posts/14/responsive/Zelda_adventure_cropped-2-2xl.jpg 1920w\"></figure>\n<p> </p>\n<p> </p>",
-            "author": {
-                "name": "Edoarte"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-10-23T22:24:29+02:00",
-            "date_modified": "2026-10-23T22:24:29+02:00"
+            "date_published": "2026-10-24T22:26:00+02:00",
+            "date_modified": "2026-10-27T09:20:18+01:00"
         },
         {
             "id": "https://edoarte.it/blog/a-scary-face/",
             "url": "https://edoarte.it/blog/a-scary-face/",
             "title": "A scary face",
             "summary": "It creeps me out!",
-            "content_html": "<p>It creeps me out!</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://edoarte.it/media/posts/13/monster_head_cropped.jpg\" alt=\"A scary face\" width=\"1500\" height=\"1476\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://edoarte.it/media/posts/13/responsive/monster_head_cropped-xs.jpg 640w ,https://edoarte.it/media/posts/13/responsive/monster_head_cropped-sm.jpg 768w ,https://edoarte.it/media/posts/13/responsive/monster_head_cropped-md.jpg 1024w ,https://edoarte.it/media/posts/13/responsive/monster_head_cropped-lg.jpg 1366w ,https://edoarte.it/media/posts/13/responsive/monster_head_cropped-xl.jpg 1600w ,https://edoarte.it/media/posts/13/responsive/monster_head_cropped-2xl.jpg 1920w\"></figure>",
+            "content_html": "<p>It creeps me out!</p>\n<p> </p>\n<p> </p>",
+            "image": "https://edoarte.it/media/posts/13/monster_head_cropped-2.jpg",
             "author": {
                 "name": "Edoarte"
             },
             "tags": [
+                   "Monsters"
             ],
-            "date_published": "2026-10-23T15:08:14+02:00",
-            "date_modified": "2026-10-23T15:08:14+02:00"
+            "date_published": "2026-10-24T15:08:00+02:00",
+            "date_modified": "2026-10-27T09:20:06+01:00"
         },
         {
             "id": "https://edoarte.it/blog/orc-with-goblin/",
             "url": "https://edoarte.it/blog/orc-with-goblin/",
             "title": "Orc with goblin",
             "summary": "I am not sure whether the creatures in the sketch are actually an orc and a poor goblin, but this is my interpretation.",
-            "content_html": "<p>I am not sure whether the creatures in the sketch are actually an orc and a poor goblin, but this is my interpretation.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://edoarte.it/media/posts/12/Orc_and_goblin_cropped.jpg\" alt=\"An orc and a goblin\" width=\"1500\" height=\"1157\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://edoarte.it/media/posts/12/responsive/Orc_and_goblin_cropped-xs.jpg 640w ,https://edoarte.it/media/posts/12/responsive/Orc_and_goblin_cropped-sm.jpg 768w ,https://edoarte.it/media/posts/12/responsive/Orc_and_goblin_cropped-md.jpg 1024w ,https://edoarte.it/media/posts/12/responsive/Orc_and_goblin_cropped-lg.jpg 1366w ,https://edoarte.it/media/posts/12/responsive/Orc_and_goblin_cropped-xl.jpg 1600w ,https://edoarte.it/media/posts/12/responsive/Orc_and_goblin_cropped-2xl.jpg 1920w\"></figure>",
+            "content_html": "<p>I am not sure whether the creatures in the sketch are actually an orc and a poor goblin, but this is my interpretation.</p>\n<p> </p>",
+            "image": "https://edoarte.it/media/posts/12/Orc_and_goblin_cropped-2.jpg",
             "author": {
                 "name": "Edoarte"
             },
             "tags": [
+                   "Humanoids"
             ],
-            "date_published": "2026-10-23T14:44:53+02:00",
-            "date_modified": "2026-10-23T14:44:53+02:00"
+            "date_published": "2026-10-24T14:44:00+02:00",
+            "date_modified": "2026-10-27T09:19:53+01:00"
+        },
+        {
+            "id": "https://edoarte.it/blog/little-creaures/",
+            "url": "https://edoarte.it/blog/little-creaures/",
+            "title": "Little creaures",
+            "summary": "They have no name, but these small creatures would deserve one.",
+            "content_html": "<p> </p>\n<p>They have no name, but these small creatures would deserve one.</p>\n<p> </p>\n<p> </p>",
+            "image": "https://edoarte.it/media/posts/16/small_creatures_cropped.jpg",
+            "author": {
+                "name": "Edoarte"
+            },
+            "tags": [
+                   "Small_creatures"
+            ],
+            "date_published": "2026-10-23T22:29:20+02:00",
+            "date_modified": "2026-10-26T23:35:29+01:00"
         },
         {
             "id": "https://edoarte.it/blog/a-fantastic-cretaure/",
             "url": "https://edoarte.it/blog/a-fantastic-cretaure/",
             "title": "A fantastic cretaure ",
             "summary": "A fantastical creature with a beak, two webbed feet, dorsal winged fins, and rear fins. I'd say it has everything!",
-            "content_html": "<p>A fantastical creature with a beak, two webbed feet, dorsal winged fins, and rear fins. I'd say it has everything!<br><br><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://edoarte.it/media/posts/11/creatura_fantastica.jpg\" alt=\"\" width=\"1500\" height=\"1001\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://edoarte.it/media/posts/11/responsive/creatura_fantastica-xs.jpg 640w ,https://edoarte.it/media/posts/11/responsive/creatura_fantastica-sm.jpg 768w ,https://edoarte.it/media/posts/11/responsive/creatura_fantastica-md.jpg 1024w ,https://edoarte.it/media/posts/11/responsive/creatura_fantastica-lg.jpg 1366w ,https://edoarte.it/media/posts/11/responsive/creatura_fantastica-xl.jpg 1600w ,https://edoarte.it/media/posts/11/responsive/creatura_fantastica-2xl.jpg 1920w\"> </figure>",
+            "content_html": "<p>A fantastical creature with a beak, two webbed feet, dorsal winged fins, and rear fins. I'd say it has everything!<br><br> </p>",
+            "image": "https://edoarte.it/media/posts/11/creatura_fantastica_cropped.jpg",
             "author": {
                 "name": "Edoarte"
             },
             "tags": [
+                   "Monsters"
             ],
             "date_published": "2026-10-10T21:21:37+02:00",
-            "date_modified": "2026-10-11T23:38:16+02:00"
+            "date_modified": "2026-10-26T23:33:14+01:00"
+        },
+        {
+            "id": "https://edoarte.it/blog/rabbit-warrior/",
+            "url": "https://edoarte.it/blog/rabbit-warrior/",
+            "title": "A rabbit warrior",
+            "summary": "A rabbit warrior that doesn't come in peace!",
+            "content_html": "<p>A rabbit warrior that doesn't come in peace!<br><br></p>",
+            "image": "https://edoarte.it/media/posts/10/rabbit-warrior._cropped.jpg",
+            "author": {
+                "name": "Edoarte"
+            },
+            "tags": [
+                   "Humanoids"
+            ],
+            "date_published": "2026-10-10T21:17:34+02:00",
+            "date_modified": "2026-10-27T09:19:23+01:00"
         }
     ]
 }
