@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Edo&#x27;s gallery - brutta",
+    "title": "Edo&#x27;s gallery - 2.0",
     "description": "",
     "home_page_url": "https://edoarte.it",
     "feed_url": "https://edoarte.it/feed.json",
@@ -10,6 +10,38 @@
         "name": "Edoarte"
     },
     "items": [
+        {
+            "id": "https://edoarte.it/blog/plantfish-2/",
+            "url": "https://edoarte.it/blog/plantfish-2/",
+            "title": "PlantFish",
+            "summary": "What is it? A plant shaped like a fish, or a fish with leaf-shaped fins? Colored version",
+            "content_html": "<p>What is it? A plant shaped like a fish, or a fish with leaf-shaped fins?<br>Colored version</p>",
+            "image": "https://edoarte.it/media/posts/30/PlantFish_coloror_cropped.jpg",
+            "author": {
+                "name": "Edoarte"
+            },
+            "tags": [
+                   "Fantastic_creatures"
+            ],
+            "date_published": "2026-10-29T21:06:31+01:00",
+            "date_modified": "2026-10-29T21:07:08+01:00"
+        },
+        {
+            "id": "https://edoarte.it/blog/plantfish/",
+            "url": "https://edoarte.it/blog/plantfish/",
+            "title": "PlantFish",
+            "summary": "What is it? A plant shaped like a fish, or a fish with leaf-shaped fins? Black-and-white version",
+            "content_html": "<p>What is it? A plant shaped like a fish, or a fish with leaf-shaped fins?<br>Black-and-white version</p>",
+            "image": "https://edoarte.it/media/posts/29/261029_Plantfish_cropped.jpg",
+            "author": {
+                "name": "Edoarte"
+            },
+            "tags": [
+                   "Fantastic_creatures"
+            ],
+            "date_published": "2026-10-29T21:03:13+01:00",
+            "date_modified": "2026-10-29T21:07:01+01:00"
+        },
         {
             "id": "https://edoarte.it/blog/the-long-tongued-monster/",
             "url": "https://edoarte.it/blog/the-long-tongued-monster/",
@@ -137,38 +169,6 @@
             ],
             "date_published": "2026-10-23T22:29:20+02:00",
             "date_modified": "2026-10-26T23:35:29+01:00"
-        },
-        {
-            "id": "https://edoarte.it/blog/a-fantastic-cretaure/",
-            "url": "https://edoarte.it/blog/a-fantastic-cretaure/",
-            "title": "A fantastic cretaure ",
-            "summary": "A fantastical creature with a beak, two webbed feet, dorsal winged fins, and rear fins. I'd say it has everything!",
-            "content_html": "<p>A fantastical creature with a beak, two webbed feet, dorsal winged fins, and rear fins. I'd say it has everything!<br><br> </p>",
-            "image": "https://edoarte.it/media/posts/11/creatura_fantastica_cropped.jpg",
-            "author": {
-                "name": "Edoarte"
-            },
-            "tags": [
-                   "Monsters"
-            ],
-            "date_published": "2026-10-10T21:21:37+02:00",
-            "date_modified": "2026-10-26T23:33:14+01:00"
-        },
-        {
-            "id": "https://edoarte.it/blog/rabbit-warrior/",
-            "url": "https://edoarte.it/blog/rabbit-warrior/",
-            "title": "A rabbit warrior",
-            "summary": "A rabbit warrior that doesn't come in peace!",
-            "content_html": "<p>A rabbit warrior that doesn't come in peace!<br><br></p>",
-            "image": "https://edoarte.it/media/posts/10/rabbit-warrior._cropped.jpg",
-            "author": {
-                "name": "Edoarte"
-            },
-            "tags": [
-                   "Humanoids"
-            ],
-            "date_published": "2026-10-10T21:17:34+02:00",
-            "date_modified": "2026-10-27T09:19:23+01:00"
         }
     ]
 }

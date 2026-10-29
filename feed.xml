@@ -1,14 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Edo&#x27;s gallery - brutta</title>
+    <title>Edo&#x27;s gallery - 2.0</title>
     <link href="https://edoarte.it/feed.xml" rel="self" />
     <link href="https://edoarte.it" />
-    <updated>2026-10-27T09:21:24+01:00</updated>
+    <updated>2026-10-29T21:07:08+01:00</updated>
     <author>
         <name>Edoarte</name>
     </author>
     <id>https://edoarte.it</id>
 
+    <entry>
+        <title>PlantFish</title>
+        <author>
+            <name>Edoarte</name>
+        </author>
+        <link href="https://edoarte.it/blog/plantfish-2/"/>
+        <id>https://edoarte.it/blog/plantfish-2/</id>
+        <media:content url="https://edoarte.it/media/posts/30/PlantFish_coloror_cropped.jpg" medium="image" />
+            <category term="Fantastic_creatures"/>
+
+        <updated>2026-10-29T21:06:31+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://edoarte.it/media/posts/30/PlantFish_coloror_cropped.jpg" alt="" />
+                    What is it? A plant shaped like a fish, or a fish with leaf-shaped fins? Colored version
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://edoarte.it/media/posts/30/PlantFish_coloror_cropped.jpg" class="type:primaryImage" alt="" /></p>
+                <p>What is it? A plant shaped like a fish, or a fish with leaf-shaped fins?<br>Colored version</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>PlantFish</title>
+        <author>
+            <name>Edoarte</name>
+        </author>
+        <link href="https://edoarte.it/blog/plantfish/"/>
+        <id>https://edoarte.it/blog/plantfish/</id>
+        <media:content url="https://edoarte.it/media/posts/29/261029_Plantfish_cropped.jpg" medium="image" />
+            <category term="Fantastic_creatures"/>
+
+        <updated>2026-10-29T21:03:13+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://edoarte.it/media/posts/29/261029_Plantfish_cropped.jpg" alt="" />
+                    What is it? A plant shaped like a fish, or a fish with leaf-shaped fins? Black-and-white version
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://edoarte.it/media/posts/29/261029_Plantfish_cropped.jpg" class="type:primaryImage" alt="" /></p>
+                <p>What is it? A plant shaped like a fish, or a fish with leaf-shaped fins?<br>Black-and-white version</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Long-Tongued Monster</title>
         <author>
@@ -212,54 +260,6 @@
 <p>They have no name, but these small creatures would deserve one.</p>
 <p> </p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>A fantastic cretaure </title>
-        <author>
-            <name>Edoarte</name>
-        </author>
-        <link href="https://edoarte.it/blog/a-fantastic-cretaure/"/>
-        <id>https://edoarte.it/blog/a-fantastic-cretaure/</id>
-        <media:content url="https://edoarte.it/media/posts/11/creatura_fantastica_cropped.jpg" medium="image" />
-            <category term="Monsters"/>
-
-        <updated>2026-10-10T21:21:37+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://edoarte.it/media/posts/11/creatura_fantastica_cropped.jpg" alt="" />
-                    A fantastical creature with a beak, two webbed feet, dorsal winged fins, and rear fins. I'd say it has everything!
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://edoarte.it/media/posts/11/creatura_fantastica_cropped.jpg" class="type:primaryImage" alt="" /></p>
-                <p>A fantastical creature with a beak, two webbed feet, dorsal winged fins, and rear fins. I'd say it has everything!<br><br> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>A rabbit warrior</title>
-        <author>
-            <name>Edoarte</name>
-        </author>
-        <link href="https://edoarte.it/blog/rabbit-warrior/"/>
-        <id>https://edoarte.it/blog/rabbit-warrior/</id>
-        <media:content url="https://edoarte.it/media/posts/10/rabbit-warrior._cropped.jpg" medium="image" />
-            <category term="Humanoids"/>
-
-        <updated>2026-10-10T21:17:34+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://edoarte.it/media/posts/10/rabbit-warrior._cropped.jpg" alt="" />
-                    A rabbit warrior that doesn't come in peace!
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://edoarte.it/media/posts/10/rabbit-warrior._cropped.jpg" class="type:primaryImage" alt="" /></p>
-                <p>A rabbit warrior that doesn't come in peace!<br><br></p>
             ]]>
         </content>
     </entry>
