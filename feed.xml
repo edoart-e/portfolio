@@ -3,7 +3,7 @@
     <title>Edo&#x27;s gallery - 2.0</title>
     <link href="https://edoarte.it/feed.xml" rel="self" />
     <link href="https://edoarte.it" />
-    <updated>2026-10-29T21:07:08+01:00</updated>
+    <updated>2026-11-03T09:16:31+01:00</updated>
     <author>
         <name>Edoarte</name>
     </author>
@@ -22,13 +22,13 @@
         <updated>2026-10-29T21:06:31+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://edoarte.it/media/posts/30/PlantFish_coloror_cropped.jpg" alt="" />
+                        <img src="https://edoarte.it/media/posts/30/PlantFish_coloror_cropped.jpg" alt="A smiling fish with a very big mouth, appearing to emerge from three leaves (which could be its tail fin). Colored" />
                     What is it? A plant shaped like a fish, or a fish with leaf-shaped fins? Colored version
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://edoarte.it/media/posts/30/PlantFish_coloror_cropped.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://edoarte.it/media/posts/30/PlantFish_coloror_cropped.jpg" class="type:primaryImage" alt="A smiling fish with a very big mouth, appearing to emerge from three leaves (which could be its tail fin). Colored" /></p>
                 <p>What is it? A plant shaped like a fish, or a fish with leaf-shaped fins?<br>Colored version</p>
             ]]>
         </content>
