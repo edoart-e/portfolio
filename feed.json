@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://edoarte.it/blog/house-on-a-tree/",
+            "url": "https://edoarte.it/blog/house-on-a-tree/",
+            "title": "House on a tree",
+            "summary": "Edoarte is experimenting with new techniques! This cute little house is brought to life with watercolors.",
+            "content_html": "<p>Edoarte is experimenting with new techniques! This cute little house is brought to life with watercolors.</p>",
+            "image": "https://edoarte.it/media/posts/31/261107_House_on_a_tree.jpg",
+            "author": {
+                "name": "Edoarte"
+            },
+            "tags": [
+                   "Landscape"
+            ],
+            "date_published": "2026-11-07T12:22:28+01:00",
+            "date_modified": "2026-11-07T12:22:28+01:00"
+        },
+        {
             "id": "https://edoarte.it/blog/plantfish-2/",
             "url": "https://edoarte.it/blog/plantfish-2/",
             "title": "PlantFish",
@@ -153,22 +169,6 @@
             ],
             "date_published": "2026-10-24T14:44:00+02:00",
             "date_modified": "2026-10-27T09:19:53+01:00"
-        },
-        {
-            "id": "https://edoarte.it/blog/little-creaures/",
-            "url": "https://edoarte.it/blog/little-creaures/",
-            "title": "Little creaures",
-            "summary": "They have no name, but these small creatures would deserve one.",
-            "content_html": "<p> </p>\n<p>They have no name, but these small creatures would deserve one.</p>\n<p> </p>\n<p> </p>",
-            "image": "https://edoarte.it/media/posts/16/small_creatures_cropped.jpg",
-            "author": {
-                "name": "Edoarte"
-            },
-            "tags": [
-                   "Small_creatures"
-            ],
-            "date_published": "2026-10-23T22:29:20+02:00",
-            "date_modified": "2026-10-26T23:35:29+01:00"
         }
     ]
 }
