@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://edoarte.it/blog/man-in-pose/",
+            "url": "https://edoarte.it/blog/man-in-pose/",
+            "title": "Man in pose",
+            "summary": "This man is completely absorbed in his thoughts.",
+            "content_html": "<p>This man is completely absorbed in his thoughts.</p>",
+            "image": "https://edoarte.it/media/posts/35/Man_001.jpg",
+            "author": {
+                "name": "Edoarte"
+            },
+            "tags": [
+                   "Humans"
+            ],
+            "date_published": "2026-11-21T22:46:07+01:00",
+            "date_modified": "2026-11-21T22:46:53+01:00"
+        },
+        {
+            "id": "https://edoarte.it/blog/ogre/",
+            "url": "https://edoarte.it/blog/ogre/",
+            "title": "Ogre",
+            "summary": "I'm not really sure whether these wings can actually make him fly...",
+            "content_html": "<p>I'm not really sure whether these wings can actually make him fly...</p>",
+            "image": "https://edoarte.it/media/posts/34/Ogre_profile_001.jpg",
+            "author": {
+                "name": "Edoarte"
+            },
+            "tags": [
+                   "Humanoids"
+            ],
+            "date_published": "2026-11-21T22:43:41+01:00",
+            "date_modified": "2026-11-21T22:47:09+01:00"
+        },
+        {
             "id": "https://edoarte.it/blog/pirate/",
             "url": "https://edoarte.it/blog/pirate/",
             "title": "Pirate",
@@ -136,38 +168,6 @@
             ],
             "date_published": "2026-10-24T22:34:00+02:00",
             "date_modified": "2026-10-27T09:21:07+01:00"
-        },
-        {
-            "id": "https://edoarte.it/blog/a-mustachioed-sailor/",
-            "url": "https://edoarte.it/blog/a-mustachioed-sailor/",
-            "title": "A mustachioed sailor",
-            "summary": "A mustachioed sailor, perhaps from a cyber ghost ship.",
-            "content_html": "<p>A mustachioed sailor, perhaps from a cyber ghost ship.</p>\n<p> </p>",
-            "image": "https://edoarte.it/media/posts/17/Mustachioed_cyber_sailor_cropped-2.jpg",
-            "author": {
-                "name": "Edoarte"
-            },
-            "tags": [
-                   "Monsters"
-            ],
-            "date_published": "2026-10-24T22:31:00+02:00",
-            "date_modified": "2026-10-27T09:20:55+01:00"
-        },
-        {
-            "id": "https://edoarte.it/blog/he-is-serious/",
-            "url": "https://edoarte.it/blog/he-is-serious/",
-            "title": "He is serious",
-            "summary": "I wouldn't look for trouble with him",
-            "content_html": "<p>I wouldn't look for trouble with him<br><br><br></p>\n<p> </p>",
-            "image": "https://edoarte.it/media/posts/15/Smoking_serious_man_cropped.jpg",
-            "author": {
-                "name": "Edoarte"
-            },
-            "tags": [
-                   "Portraits"
-            ],
-            "date_published": "2026-10-24T22:26:00+02:00",
-            "date_modified": "2026-10-27T09:20:18+01:00"
         }
     ]
 }
