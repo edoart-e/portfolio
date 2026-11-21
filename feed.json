@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://edoarte.it/blog/superhero/",
+            "url": "https://edoarte.it/blog/superhero/",
+            "title": "Superhero",
+            "summary": "Probably inspired by My Hero Academia.",
+            "content_html": "<p>Probably inspired by <em>My Hero Academia</em>.</p>",
+            "image": "https://edoarte.it/media/posts/36/superhero.jpg",
+            "author": {
+                "name": "Edoarte"
+            },
+            "tags": [
+                   "Humans"
+            ],
+            "date_published": "2026-11-21T23:26:11+01:00",
+            "date_modified": "2026-11-21T23:26:11+01:00"
+        },
+        {
             "id": "https://edoarte.it/blog/man-in-pose/",
             "url": "https://edoarte.it/blog/man-in-pose/",
             "title": "Man in pose",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2026-10-24T22:38:00+02:00",
             "date_modified": "2026-10-27T09:21:24+01:00"
-        },
-        {
-            "id": "https://edoarte.it/blog/curly-nosed-monster/",
-            "url": "https://edoarte.it/blog/curly-nosed-monster/",
-            "title": "Curly-nosed monster",
-            "summary": "Well... the curly nose makes him endearing",
-            "content_html": "<p>Well... the curly nose makes him endearing</p>\n<p> </p>\n<p> </p>",
-            "image": "https://edoarte.it/media/posts/18/dinolike-monster_cropped-2.jpg",
-            "author": {
-                "name": "Edoarte"
-            },
-            "tags": [
-                   "Monsters"
-            ],
-            "date_published": "2026-10-24T22:34:00+02:00",
-            "date_modified": "2026-10-27T09:21:07+01:00"
         }
     ]
 }

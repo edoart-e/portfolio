@@ -3,12 +3,36 @@
     <title>Edo&#x27;s gallery - 2.0</title>
     <link href="https://edoarte.it/feed.xml" rel="self" />
     <link href="https://edoarte.it" />
-    <updated>2026-11-21T22:47:09+01:00</updated>
+    <updated>2026-11-21T23:26:11+01:00</updated>
     <author>
         <name>Edoarte</name>
     </author>
     <id>https://edoarte.it</id>
 
+    <entry>
+        <title>Superhero</title>
+        <author>
+            <name>Edoarte</name>
+        </author>
+        <link href="https://edoarte.it/blog/superhero/"/>
+        <id>https://edoarte.it/blog/superhero/</id>
+        <media:content url="https://edoarte.it/media/posts/36/superhero.jpg" medium="image" />
+            <category term="Humans"/>
+
+        <updated>2026-11-21T23:26:11+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://edoarte.it/media/posts/36/superhero.jpg" alt="A superhero with a cape" />
+                    Probably inspired by My Hero Academia.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://edoarte.it/media/posts/36/superhero.jpg" class="type:primaryImage" alt="A superhero with a cape" /></p>
+                <p>Probably inspired by <em>My Hero Academia</em>.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Man in pose</title>
         <author>
@@ -223,32 +247,6 @@
             <![CDATA[
                     <p><img src="https://edoarte.it/media/posts/19/cutedino_cropped-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Don't be fooled by its cute appearance!</p>
-<p> </p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Curly-nosed monster</title>
-        <author>
-            <name>Edoarte</name>
-        </author>
-        <link href="https://edoarte.it/blog/curly-nosed-monster/"/>
-        <id>https://edoarte.it/blog/curly-nosed-monster/</id>
-        <media:content url="https://edoarte.it/media/posts/18/dinolike-monster_cropped-2.jpg" medium="image" />
-            <category term="Monsters"/>
-
-        <updated>2026-10-24T22:34:00+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://edoarte.it/media/posts/18/dinolike-monster_cropped-2.jpg" alt="" />
-                    Well... the curly nose makes him endearing
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://edoarte.it/media/posts/18/dinolike-monster_cropped-2.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Well... the curly nose makes him endearing</p>
 <p> </p>
 <p> </p>
             ]]>
